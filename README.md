@@ -2,6 +2,11 @@
 
 This web application allows users to translate text from one language to another using an external translation API. The app is built using HTML, CSS, JavaScript, Node.js, Express, and Axios.
 
+
+## Deployment
+
+This project is deployed and accessible at [Translator Website](https://translator-website-frontend.onrender.com).
+
 ## Usage
 
 1. Clone the repository:
@@ -61,3 +66,5 @@ const apiHost = 'translated-mymemory---translation-memory.p.rapidapi.com';
 - This project is a basic implementation and can be enhanced with additional features and improvements.
 
 Feel free to contribute and make this language translation app even more powerful and user-friendly!
+
+
