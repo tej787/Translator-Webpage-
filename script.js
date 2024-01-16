@@ -5,7 +5,7 @@ var outputText = document.getElementById('outputText');
 
 document.getElementById('translateBtn').addEventListener('click', async () => {
   try {
-    const response = await axios.post('http://localhost:4000/translate', {
+    const response = await axios.post('https://translator-website-xglm.onrender.com/translate', {
     
         inputText: inputText.value,
       inputLanguage: inputLanguage.value,
